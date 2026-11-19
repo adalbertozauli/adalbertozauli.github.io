@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zauli.med.br/sitemap.xml
