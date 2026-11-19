@@ -8,6 +8,7 @@ Contato: contato@zauli.med.br
 
 - `index.html`: página principal
 - `apac-digital.html`: estudo de caso do APAC Digital
+- `caso-calculadora-aps.html`: estudo de caso da Calculadora APS
 - `assets/`: logomarca, retrato e imagem Open Graph (`og-image.jpg`, 1200×630)
 - `robots.txt` e `sitemap.xml`: indexação
 
